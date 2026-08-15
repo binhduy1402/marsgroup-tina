@@ -8,7 +8,7 @@ import collection4 from "./assets/collection/collection4.jpg";
 export const BRAND_INFO = {
   name: "Mars Group",
   tagline: "Heritage & Grace",
-  hotline: "0903 731 769",
+  hotline: "0903 731 769 - Ms. Tina",
   email: "tina@mars-vn.com",
   address: "District 2, Ho Chi Minh City, VietNam",
 };
