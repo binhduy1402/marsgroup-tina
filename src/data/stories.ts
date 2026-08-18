@@ -6,9 +6,6 @@ import story2_2 from "../assets/story2-2.jpg";
 import story2_3 from "../assets/story2-3.jpg";
 import story2_4 from "../assets/story2-4.jpg";
 import story2_5 from "../assets/story2-5.jpg";
-import story3 from "../assets/story3.jpg";
-import story3_2 from "../assets/story3-2.jpg";
-import story3_3 from "../assets/story3-3.jpg";
 import story3_4 from "../assets/story3-4.jpg";
 import story3_5 from "../assets/story3-5.jpg";
 import story4 from "../assets/story4.jpg";
@@ -56,9 +53,9 @@ export const stories: Story[] = [
     id: 3,
     title: "Sự chăm chút của Mars Group",
     cardTitle: "Sự chăm chút của Mars Group",
-    cardImage: story3,
+    cardImage: story3_4,
     tag: "Nội bộ",
-    images: [story3_2, story3_3, story3_4, story3_5],
+    images: [story3_4, story3_5],
     imageFit: "cover",
     description:
       "Phía sau mỗi sản phẩm là những ngày làm việc khẩn trương của đội ngũ Mars Group. Khi thời gian gấp rút, các bộ phận luôn sát cánh hỗ trợ nhau để hoàn thành từng công đoạn đúng kế hoạch, từ sản xuất, kiểm tra chất lượng đến đóng gói. Chính tinh thần đồng đội ấy giúp mỗi đơn hàng được bàn giao đúng tiến độ mà vẫn giữ trọn sự chỉn chu trong từng chi tiết.",
