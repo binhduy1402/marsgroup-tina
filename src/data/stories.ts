@@ -16,7 +16,7 @@ import story4video2 from "../assets/story4-2.mp4";
 
 export interface Story {
   id: number;
-  title: string;
+  title: string;  
   cardTitle: string;
   cardImage: string;
   tag: string;
@@ -38,6 +38,7 @@ export const stories: Story[] = [
     description:
       "Mars Group vinh dự đồng hành cùng Generali trong hành trình “Kết nối trăm điểm tin cậy”, mang không khí sôi động đến các văn phòng GenCasa trên toàn quốc. Với sản phẩm LEO nhồi bông và LEO móc khóa được thiết kế đồng bộ, chúng tôi góp phần lan tỏa thông điệp tích cực và tạo nên những trải nghiệm đáng nhớ cho khách hàng, đối tác và đội ngũ Generali.",
   },
+
   {
     id: 2,
     title: "365 ngày - Không bỏ lỡ một sinh nhật nào",
