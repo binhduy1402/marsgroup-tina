@@ -10,7 +10,7 @@ export const BRAND_INFO = {
   tagline: "Heritage & Grace",
   hotline: "0903 731 769 - Ms. Tina",
   email: "tina@mars-vn.com",
-  address: "Binh Trung District, Ho Chi Minh City, Vietnam",
+  address: "Binh Trung Ward, Ho Chi Minh City, Vietnam",
 };
 
 export const COMPANY_STATS = [
